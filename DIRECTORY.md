@@ -19,6 +19,7 @@
     * [Binarytree](https://github.com/TheAlgorithms/Haskell/blob/master/src/BinaryTree/BinaryTree.hs)
   * Datastructures
     * [Maxheap](https://github.com/TheAlgorithms/Haskell/blob/master/src/DataStructures/MaxHeap.hs)
+    * [Disjointsets](https://github.com/TheAlgorithms/Haskell/blob/master/src/DataStructures/DisjointSets.hs)
   * Graph
     * [Dfs](https://github.com/TheAlgorithms/Haskell/blob/master/src/Graph/Dfs.hs)
     * [Directedgraph](https://github.com/TheAlgorithms/Haskell/blob/master/src/Graph/DirectedGraph.hs)
