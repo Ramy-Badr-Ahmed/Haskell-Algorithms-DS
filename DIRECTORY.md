@@ -20,6 +20,7 @@
   * Datastructures
     * [Maxheap](https://github.com/TheAlgorithms/Haskell/blob/master/src/DataStructures/MaxHeap.hs)
     * [Disjointsets](https://github.com/TheAlgorithms/Haskell/blob/master/src/DataStructures/DisjointSets.hs)
+    * [Stack](https://github.com/TheAlgorithms/Haskell/blob/master/src/DataStructures/Stack.hs)
   * Graph
     * [Dfs](https://github.com/TheAlgorithms/Haskell/blob/master/src/Graph/Dfs.hs)
     * [Directedgraph](https://github.com/TheAlgorithms/Haskell/blob/master/src/Graph/DirectedGraph.hs)
