@@ -1,4 +1,4 @@
-module Main where
+module DataStructures.QueueMain where
 
 import DataStructures.Queue
 

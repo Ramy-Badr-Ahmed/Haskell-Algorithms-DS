@@ -1,4 +1,4 @@
-module Main where
+module DataStructures.DisjointSetsMain where
 
 import DataStructures.DisjointSets
 

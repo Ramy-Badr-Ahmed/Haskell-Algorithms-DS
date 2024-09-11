@@ -1,4 +1,4 @@
-module Main where
+module DataStructures.StackMain where
 
 import DataStructures.Stack
 
