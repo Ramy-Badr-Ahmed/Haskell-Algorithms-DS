@@ -26,28 +26,6 @@ library:
   - array
   source-dirs: src
 
-executables:
-  stack-exe:
-    main: src/Main/StackMain.hs
-    source-dirs: src
-    dependencies:
-      - base
-      - DataStructures
-
-  queue-exe:
-    main: src/Main/QueueMain.hs
-    source-dirs: src
-    dependencies:
-      - base
-      - DataStructures
-
-  disjoint-sets-exe:
-    main: src/Main/DisjointSetsMain.hs
-    source-dirs: src
-    dependencies:
-      - base
-      - DataStructures
-
 tests:
   Haskell-test-suite:
     source-dirs: specs
