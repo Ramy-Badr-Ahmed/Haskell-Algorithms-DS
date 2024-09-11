@@ -23,6 +23,7 @@ library:
   - containers
   - vector
   - vector-algorithms
+  - array
   source-dirs: src
 
 tests:
@@ -35,6 +36,7 @@ tests:
     - hspec
     - QuickCheck
     - containers
+    - array
     ghc-options:
     - -rtsopts
     - -threaded
