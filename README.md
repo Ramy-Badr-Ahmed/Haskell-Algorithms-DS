@@ -1,4 +1,5 @@
-![CI (Stack)](https://github.com/TheAlgorithms/Haskell/workflows/CI%20(Stack)/badge.svg)
+[![CI (Stack)](https://github.com/Ramy-Badr-Ahmed/Haskell-DSA/actions/workflows/CI.yml/badge.svg)](https://github.com/Ramy-Badr-Ahmed/Haskell-DSA/actions/workflows/CI.yml)
+
 # The Algorithms - Haskell
 Haskell is a general-purpose, statically typed, purely functional programming language with type inference and lazy evaluation.
 
