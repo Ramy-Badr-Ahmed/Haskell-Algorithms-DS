@@ -26,6 +26,10 @@
     * [Dfs](https://github.com/TheAlgorithms/Haskell/blob/master/src/Graph/Dfs.hs)
     * [Directedgraph](https://github.com/TheAlgorithms/Haskell/blob/master/src/Graph/DirectedGraph.hs)
   * [Haskellalgorithms](https://github.com/TheAlgorithms/Haskell/blob/master/src/HaskellAlgorithms.hs)
+  * Main
+    * [Disjointsetsmain](https://github.com/TheAlgorithms/Haskell/blob/master/src/Main/DisjointSetsMain.hs)
+    * [Queuemain](https://github.com/TheAlgorithms/Haskell/blob/master/src/Main/QueueMain.hs)
+    * [Stackmain](https://github.com/TheAlgorithms/Haskell/blob/master/src/Main/StackMain.hs)
   * Maths
     * [Factorial](https://github.com/TheAlgorithms/Haskell/blob/master/src/Maths/Factorial.hs)
     * [Fibonacci](https://github.com/TheAlgorithms/Haskell/blob/master/src/Maths/Fibonacci.hs)
