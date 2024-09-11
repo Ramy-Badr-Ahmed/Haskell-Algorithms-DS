@@ -19,17 +19,16 @@
     * [Binarytree](https://github.com/TheAlgorithms/Haskell/blob/master/src/BinaryTree/BinaryTree.hs)
   * Datastructures
     * [Disjointsets](https://github.com/TheAlgorithms/Haskell/blob/master/src/DataStructures/DisjointSets.hs)
+    * [Disjointsetsmain](https://github.com/TheAlgorithms/Haskell/blob/master/src/DataStructures/DisjointSetsMain.hs)
     * [Maxheap](https://github.com/TheAlgorithms/Haskell/blob/master/src/DataStructures/MaxHeap.hs)
     * [Queue](https://github.com/TheAlgorithms/Haskell/blob/master/src/DataStructures/Queue.hs)
+    * [Queuemain](https://github.com/TheAlgorithms/Haskell/blob/master/src/DataStructures/QueueMain.hs)
     * [Stack](https://github.com/TheAlgorithms/Haskell/blob/master/src/DataStructures/Stack.hs)
+    * [Stackmain](https://github.com/TheAlgorithms/Haskell/blob/master/src/DataStructures/StackMain.hs)
   * Graph
     * [Dfs](https://github.com/TheAlgorithms/Haskell/blob/master/src/Graph/Dfs.hs)
     * [Directedgraph](https://github.com/TheAlgorithms/Haskell/blob/master/src/Graph/DirectedGraph.hs)
   * [Haskellalgorithms](https://github.com/TheAlgorithms/Haskell/blob/master/src/HaskellAlgorithms.hs)
-  * Main
-    * [Disjointsetsmain](https://github.com/TheAlgorithms/Haskell/blob/master/src/Main/DisjointSetsMain.hs)
-    * [Queuemain](https://github.com/TheAlgorithms/Haskell/blob/master/src/Main/QueueMain.hs)
-    * [Stackmain](https://github.com/TheAlgorithms/Haskell/blob/master/src/Main/StackMain.hs)
   * Maths
     * [Factorial](https://github.com/TheAlgorithms/Haskell/blob/master/src/Maths/Factorial.hs)
     * [Fibonacci](https://github.com/TheAlgorithms/Haskell/blob/master/src/Maths/Fibonacci.hs)
