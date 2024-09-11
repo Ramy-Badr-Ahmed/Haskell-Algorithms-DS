@@ -1,3 +1,5 @@
+module DataStructures.Queue where
+
 import Data.Array.ST
 import Control.Monad.ST
 import Data.STRef
