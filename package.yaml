@@ -28,22 +28,22 @@ library:
 
 executables:
   stack-exe:
-    main: Main/StackMain.hs
-    source-dirs: src/Main
+    main: src/Main/StackMain.hs
+    source-dirs: src
     dependencies:
       - base
       - DataStructures
 
   queue-exe:
-    main: Main/QueueMain.hs
-    source-dirs: src/Main
+    main: src/Main/QueueMain.hs
+    source-dirs: src
     dependencies:
       - base
       - DataStructures
 
   disjoint-sets-exe:
-    main: Main/DisjointSetsMain.hs
-    source-dirs: src/Main
+    main: src/Main/DisjointSetsMain.hs
+    source-dirs: src
     dependencies:
       - base
       - DataStructures
