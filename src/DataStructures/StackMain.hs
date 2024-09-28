@@ -1,3 +1,11 @@
+{-|
+Created by: Ramy-Badr-Ahmed (https://github.com/Ramy-Badr-Ahmed) in Pull Request: #54
+https://github.com/TheAlgorithms/Haskell/pull/54
+
+Please mention me (@Ramy-Badr-Ahmed) in any issue or pull request addressing bugs/corrections to this file.
+Thank you!
+-}
+
 module DataStructures.StackMain where
 
 import DataStructures.Stack
